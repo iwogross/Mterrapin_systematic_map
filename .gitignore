@@ -1,0 +1,36 @@
+# RStudio
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+
+# renv (lockfile and activate.R are tracked)
+renv/library/
+renv/local/
+renv/cellar/
+renv/lock/
+renv/python/
+renv/sandbox/
+renv/staging/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# PDFs (copyrighted full texts and benchmarks)
+*.pdf
+Included/
+
+# Generated files
+notebooklm_resources/01_module_registry.csv
+notebooklm_batches/
+notebook_outputs/
+fused_extractions/
+
+# Excel lock files
+~$*.xlsx
+
+# Credentials
+.Renviron
+.env

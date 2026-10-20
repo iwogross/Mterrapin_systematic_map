@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this code or the extraction resources, please cite them as below."
+title: "Mterrapin_systematic_map: code and extraction resources for a systematic map of diamondback terrapin literature"
+type: software
+authors:
+  - family-names: Gross
+    given-names: Iwo
+    orcid: "https://orcid.org/0000-0001-6573-832X"
+    affiliation: "Centre for Open Science and Synthesis in Ecology and Evolution, University of Alberta"
+repository-code: "https://github.com/iwogross/Mterrapin_systematic_map"
+license: MIT
+version: 1.0.0
+date-released: 2026-10-20
+keywords:
+  - systematic map
+  - evidence synthesis
+  - Malaclemys terrapin
+  - registered report
+  - AI-assisted extraction
